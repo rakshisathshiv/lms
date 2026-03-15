@@ -8,7 +8,6 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { Spinner } from '@/components/ui/spinner'
 import Link from 'next/link'
-import Link as NextLink from 'next/link'
 import { BookOpen, Clock, ArrowRight } from 'lucide-react'
 import Image from 'next/image'
 
